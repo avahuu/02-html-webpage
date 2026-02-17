@@ -1,3 +1,3 @@
 ## My first website
 
-I built this for J220 coding class lessions but I might actually used it. 
+I built this for J220 coding class lessions but I might actually use it. 
